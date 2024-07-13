@@ -1,0 +1,2 @@
+.env
+chmod 600 .env

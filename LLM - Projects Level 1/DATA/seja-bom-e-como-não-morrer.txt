@@ -1,0 +1,91 @@
+### Seja Bom
+
+Abril de 2008
+
+(Este ensaio é derivado de uma palestra na Startup School de 2008.)
+
+Cerca de um mês após começarmos a Y Combinator, criamos a frase que se tornou nosso lema: Faça algo que as pessoas queiram. Aprendemos muito desde então, mas se eu tivesse que escolher agora, ainda escolheria essa.
+
+Outra coisa que dizemos aos fundadores é não se preocupar muito com o modelo de negócios, pelo menos no início. Não porque ganhar dinheiro seja irrelevante, mas porque é muito mais fácil do que construir algo grandioso.
+
+Algumas semanas atrás, percebi que se juntar essas duas ideias, você obtém algo surpreendente. Faça algo que as pessoas queiram. Não se preocupe muito com ganhar dinheiro. O que você tem é uma descrição de uma instituição de caridade.
+
+Quando você obtém um resultado inesperado como esse, pode ser um erro ou uma nova descoberta. Ou os negócios não devem ser como instituições de caridade, e provamos por redução ao absurdo que um ou ambos os princípios com os quais começamos são falsos. Ou temos uma nova ideia.
+
+Suspeito que seja a última, porque assim que esse pensamento me ocorreu, várias outras coisas se encaixaram.
+
+### Exemplos
+
+Por exemplo, Craigslist. Não é uma instituição de caridade, mas eles a administram como uma. E são surpreendentemente bem-sucedidos. Quando você olha a lista dos sites mais populares, o número de funcionários do Craigslist parece um erro de impressão. Suas receitas não são tão altas quanto poderiam ser, mas a maioria das startups ficaria feliz em trocar de lugar com eles.
+
+Nos romances de Patrick O'Brian, seus capitães sempre tentam se posicionar a favor do vento em relação aos seus oponentes. Se você está a favor do vento, decide quando e se engajar com o outro navio. Craigslist está efetivamente a favor de receitas enormes. Eles enfrentariam alguns desafios se quisessem ganhar mais, mas não os tipos que você enfrenta quando está navegando contra o vento, tentando forçar um produto ruim a usuários ambivalentes gastando dez vezes mais em vendas do que em desenvolvimento.
+
+Não estou dizendo que as startups devem mirar em acabar como Craigslist. Eles são um produto de circunstâncias incomuns. Mas são um bom modelo para as fases iniciais.
+
+O Google parecia muito com uma instituição de caridade no início. Eles não tinham anúncios por mais de um ano. No primeiro ano, o Google era indistinguível de uma organização sem fins lucrativos. Se uma organização sem fins lucrativos ou governamental tivesse começado um projeto para indexar a web, o Google no primeiro ano seria o limite do que teriam produzido.
+
+Quando eu estava trabalhando em filtros de spam, pensei que seria uma boa ideia ter um serviço de e-mail baseado na web com bom filtro de spam. Eu não estava pensando nisso como uma empresa. Eu só queria evitar que as pessoas recebessem spam. Mas, ao pensar mais sobre esse projeto, percebi que provavelmente teria que ser uma empresa. Custaria algo para rodar, e seria um incômodo financiar com doações e subsídios.
+
+Isso foi uma realização surpreendente. As empresas costumam alegar ser benevolentes, mas foi surpreendente perceber que havia projetos puramente benevolentes que precisavam ser corporificados como empresas para funcionar.
+
+Eu não queria começar outra empresa, então não fiz. Mas se alguém tivesse feito, provavelmente estaria bastante rico agora. Houve uma janela de cerca de dois anos quando o spam estava aumentando rapidamente, mas todos os grandes serviços de e-mail tinham filtros terríveis. Se alguém tivesse lançado um novo serviço de e-mail sem spam, os usuários teriam migrado para ele.
+
+Percebe o padrão aqui? De qualquer direção, chegamos ao mesmo ponto. Se você começa com startups de sucesso, descobre que elas muitas vezes se comportavam como organizações sem fins lucrativos. E se você começa com ideias para organizações sem fins lucrativos, descobre que muitas vezes fariam boas startups.
+
+### Potencial
+
+Quão amplo é esse território? Todas as boas organizações sem fins lucrativos seriam boas empresas? Possivelmente não. O que torna o Google tão valioso é que seus usuários têm dinheiro. Se você faz pessoas com dinheiro te amarem, provavelmente pode conseguir um pouco disso. Mas você poderia também basear uma startup de sucesso comportando-se como uma organização sem fins lucrativos para pessoas que não têm dinheiro? Poderia, por exemplo, crescer uma startup de sucesso curando uma doença mortal mas impopular como a malária?
+
+Não tenho certeza, mas suspeito que, se você empurrar essa ideia, ficará surpreso com quão longe ela pode ir. Por exemplo, as pessoas que se inscrevem para o Y Combinator geralmente não têm muito dinheiro, e ainda assim podemos lucrar ajudando-os, porque com nossa ajuda eles poderiam ganhar dinheiro. Talvez a situação seja semelhante com a malária. Talvez uma organização que ajudasse a tirar esse peso de um país pudesse se beneficiar do crescimento resultante.
+
+Não estou propondo isso como uma ideia séria. Não sei nada sobre malária. Mas já estou chutando ideias por tempo suficiente para saber quando encontro uma poderosa.
+
+Uma maneira de adivinhar até onde uma ideia se estende é perguntar a si mesmo em que ponto você apostaria contra ela. A ideia de apostar contra a benevolência é alarmante da mesma forma que dizer que algo é tecnicamente impossível. Você está pedindo para ser feito de bobo, porque essas são forças tão poderosas.
+
+Por exemplo, inicialmente pensei que talvez esse princípio só se aplicasse a startups da internet. Obviamente, funcionou para o Google, mas e a Microsoft? Certamente a Microsoft não é benevolente? Mas quando penso no início, eles eram. Comparados à IBM, eles eram como Robin Hood. Quando a IBM introduziu o PC, eles pensaram que iam ganhar dinheiro vendendo hardware a preços altos. Mas ao ganhar controle do padrão PC, a Microsoft abriu o mercado para qualquer fabricante. Os preços do hardware despencaram, e muitas pessoas puderam ter computadores que de outra forma não poderiam pagar. É o tipo de coisa que você esperaria que o Google fizesse.
+
+A Microsoft não é tão benevolente agora. Agora, quando alguém pensa no que a Microsoft faz aos usuários, todos os verbos que vêm à mente começam com "F". E ainda assim não parece valer a pena. O preço de suas ações está estagnado há anos. Quando eles eram Robin Hood, o preço de suas ações subia como o do Google. Poderia haver uma conexão?
+
+Você pode ver como haveria. Quando você é pequeno, não pode intimidar os clientes, então tem que encantá-los. Enquanto quando você é grande, pode maltratar à vontade, e tende a fazer isso, porque é mais fácil do que satisfazê-los. Você cresce sendo agradável, mas pode permanecer grande sendo mau.
+
+Você se safa disso até que as condições subjacentes mudem, e então todas as suas vítimas escapam. Então "Não seja mau" pode ser a coisa mais valiosa que Paul Buchheit fez para o Google, porque pode se revelar um elixir de juventude corporativa. Tenho certeza de que eles acham isso constrangedor, mas pense em como será valioso se os salvar de cair na preguiça fatal que afligiu a Microsoft e a IBM.
+
+O curioso é que esse elixir está disponível gratuitamente para qualquer outra empresa. Qualquer um pode adotar "Não seja mau". A pegadinha é que as pessoas vão cobrar isso de você. Então, acho que você não verá gravadoras ou empresas de tabaco usando essa descoberta.
+
+### Moral
+
+Há muita evidência externa de que a benevolência funciona. Mas como ela funciona? Uma vantagem de investir em um grande número de startups é que você obtém muitos dados sobre como elas funcionam. Pelo que vimos, ser bom parece ajudar as startups de três maneiras: melhora seu moral, faz com que outras pessoas queiram ajudá-las, e acima de tudo, ajuda-as a ser decisivas.
+
+O moral é tremendamente importante para uma startup—tão importante que o moral sozinho é quase suficiente para determinar o sucesso. Startups são frequentemente descritas como montanhas-russas emocionais. Um minuto você vai dominar o mundo, e no próximo está condenado. O problema de sentir que está condenado não é apenas que isso te faz infeliz, mas que te faz parar de trabalhar. Então, as descidas da montanha-russa são mais uma profecia autorrealizável do que as subidas. Se sentir que vai ter sucesso te faz trabalhar mais, isso provavelmente melhora suas chances de sucesso, mas se sentir que vai falhar te faz parar de trabalhar, isso praticamente garante que você falhe.
+
+Aqui é onde a benevolência entra. Se você sente que está realmente ajudando as pessoas, continuará trabalhando mesmo quando parecer que sua startup está condenada. A maioria de nós tem alguma quantidade de benevolência natural. O mero fato de que alguém precisa de você faz você querer ajudá-lo. Então, se você começar o tipo de startup onde os usuários voltam todos os dias, você basicamente construiu um tamagotchi gigante. Você fez algo que precisa cuidar.
+
+O Blogger é um exemplo famoso de uma startup que passou por baixos realmente profundos e sobreviveu. Em um ponto, eles ficaram sem dinheiro e todos foram embora. Evan Williams entrou para trabalhar no dia seguinte, e não havia ninguém além dele. O que o manteve em funcionamento? Em parte, o fato de que os usuários precisavam dele. Ele estava hospedando blogs de milhares de pessoas. Ele não podia simplesmente deixar o site morrer.
+
+Há muitas vantagens em lançar rapidamente, mas a mais importante pode ser que, uma vez que você tenha usuários, o efeito tamagotchi entra em ação. Uma vez que você
+
+ tenha usuários, você precisa mantê-los felizes, e esse é um poderoso motivador.
+
+Isso é verdade mesmo que não estejam pagando você. Eu mantive a Lisp de Código Aberto até que houve tantas coisas que eu senti que precisava fazer pelos usuários que eu não poderia continuar fazendo isso sem ser pago para trabalhar em tempo integral. Isso se transformou no Viaweb. Então você pode se transformar em uma empresa lucrativa sem nem tentar. Se você faz algo realmente bom para as pessoas, elas vão eventualmente pagar por isso. O oposto não é verdade.
+
+### Jiu-jitsu
+
+A segunda razão pela qual a benevolência ajuda é que outras pessoas vão querer te ajudar. Eu tive sorte em contar com o amigo Robert Morris como co-fundador. Ele havia me ajudado com o projeto anterior, escrevendo a maioria do que se tornou o Arc, e ele sabia o quanto a tecnologia poderia ser valiosa. Se eu tivesse começado a Viaweb apenas para ganhar dinheiro, ele não teria tido interesse. Trabalhar em projetos malucos é divertido. Trabalhar para ganhar dinheiro é um trabalho.
+
+Robert e eu éramos ambos hackers obstinados. Isso me lembrou do que John Kennedy disse sobre a NASA: "Sabe-se que estávamos com medo de que não conseguiríamos alguém além dos velhos e fora de forma para administrar o programa espacial, mas quando dissemos que iríamos à lua, todos os melhores cientistas e engenheiros queriam se juntar."
+
+Os melhores programadores podem fazer qualquer coisa. Quando dizem que querem trabalhar em uma startup, não estão motivados principalmente pelo dinheiro. Eles têm habilidades valiosas. O que eles mais querem é usar essas habilidades. Quando um programador diz que quer ir para uma startup, geralmente porque ele ou ela está frustrado em algum grande dilúvio que não parece se importar se eles são bons em programação ou não. Uma startup que parece destinada a fazer algo maravilhoso vai recrutar programadores melhores porque parece mais divertido.
+
+Muitas das primeiras pessoas que vieram trabalhar no Google disseram que se juntaram porque o produto era tão bom. Mesmo se você não estiver interessado em programadores, ter um produto que as pessoas adoram faz as pessoas quererem ajudá-lo. Várias vezes já fui a conferências e ouvi pessoas que diziam: "O que posso fazer para ajudar? Eu adoro usar seu produto."
+
+A melhor coisa é que a benevolência parece aumentar as chances de tomar decisões corretas. Isso me surpreendeu. As startups precisam tomar muitas decisões rapidamente, então você se beneficia enormemente se tiver um meio rápido e confiável de decidir corretamente. "O que é melhor para os usuários?" funciona bem, especialmente na forma negativa. Se não tiver certeza entre A e B, pergunte a si mesmo se B parece mais prejudicial para os usuários.
+
+Parece ingênuo dizer que "o que é melhor para os usuários?" é uma boa heurística. Isso mostra o quanto as pessoas confundiram os negócios. Negócios são simples. São basicamente apenas vendas mais o que quer que você esteja fazendo. Se você realmente construir um grande produto, terá mais de um pé na porta em ambos. E como as vendas são uma tarefa de convencimento, ser benevolente com seus clientes faz um trabalho considerável.
+
+Claro, a benevolência não é o mesmo que fazer o que os usuários dizem. Descobrimos isso na Viaweb. Para projetar um bom programa, tínhamos que perguntar aos usuários o que eles queriam e depois ignorar a maioria do que disseram. Na verdade, se você perguntar aos usuários o que eles querem e depois fizer isso, você normalmente terá um programa ruim. Os usuários nem sempre sabem o que querem, ou eles acham que querem algo que você pode fazer de uma maneira melhor. Benevolência não é fazer tudo o que os usuários dizem. É fazer o que é melhor para eles. 
+
+Eu e meu sócio costumávamos usar isso como um teste para decisões de design na Viaweb. Perguntar a si mesmo "será que isso é o melhor para os usuários?" realmente nos ajudava a tomar decisões difíceis.
+
+### Riscos
+
+Claro, você pode ser benevolente e ainda fracassar. Isso não é uma panaceia. Você ainda precisa fazer muitas outras coisas. Mas é uma enorme vantagem, especialmente para startups pequenas. Quanto mais empresas grandes ficarem em guerra com os clientes, maior será essa vantagem. E por mais que isso pareça uma descoberta recente, a prática é antiga. David derrotou Golias com uma simples atiradeira. A benevolência, embora pareça uma arma fraca, tem um grande potencial quando usada da maneira correta.
